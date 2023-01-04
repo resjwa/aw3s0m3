@@ -1,0 +1,19 @@
+.nav {
+	background: #ccc;
+    margin-bottom: 1rem;
+}
+
+.nav ul {
+	color: rgb(30, 30, 30);
+	display: flex;
+	padding: 1rem;
+}
+
+.nav li {
+	list-style: none;
+	padding: 0 0.5rem;
+}
+
+.nav a {
+	color: rgb(104, 48, 48);
+}
